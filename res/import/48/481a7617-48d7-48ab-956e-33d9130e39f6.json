@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"Plot1","json":{"chapter":"测试1","version":"0.0.1","plot":[{"txt":"这是测试对话的开始","name":"主角","dialogue":"L","img":"10001"},{"txt":"这是测试对话的结束","name":"配角","dialogue":"R","img":"20001"},{"txt":"等等，看我变身术！","name":"主角","dialogue":"L","img":"20001"},{"txt":"O(∩_∩)O哈哈~","name":"主角","dialogue":"L","img":"20001"}]}}
